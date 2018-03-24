@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Squares from './components/Squares';
+import maps from './components/maps';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <Squares />
+        <maps />
       </div>
     );
   }
