@@ -1,0 +1,24 @@
+{
+    "trigger": "X-Axis changeA",
+    "timestamp": "2018-03-24T22:41:12.369Z",
+    "event": "fired",
+    "device": {
+        "id": "79d4a3addd3e385336822d7509827dfa",
+        "name": "Virtual Starter Kit",
+        "serial": "vstarterkit001"
+    },
+    "conditions": {
+        "accelX": {
+            "lte": -0.03
+        }
+    },
+    "values": {
+        "accelX": {
+            "value": -0.0285,
+            "unit": "g",
+            "timestamp": "2018-03-24T22:41:12.369Z"
+        }
+    },
+    "timeframe": 0,
+    "custom_data": "Hello ZiZ, you moved in direction A"
+}
