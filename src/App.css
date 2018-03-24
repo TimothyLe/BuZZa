@@ -22,6 +22,23 @@
   font-size: large;
 }
 
+.squares{
+  width: 80px;
+  color: white;
+  height: 50px;
+  background: red;
+  margin: 20px;
+}
+
+#police {
+  background-color: blue;
+}
+
+#ems {
+  background-color: yellow;
+  color: black;
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
