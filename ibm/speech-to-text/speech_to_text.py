@@ -1,6 +1,6 @@
 # You need to install pyaudio to run this example
 # pip install pyaudio
-
+#!/usr/bin/env python3
 from __future__ import print_function
 import pyaudio
 import tempfile
@@ -8,8 +8,8 @@ from watson_developer_cloud import SpeechToTextV1
 from watson_developer_cloud.websocket import RecognizeCallback
 
 speech_to_text = SpeechToTextV1(
-    username='YOUR SERVICE USERNAME',
-    password='YOUR SERVICE PASSWORD',
+    username='timothyle',
+    password='!k3RneL.',
     url='https://stream.watsonplatform.net/speech-to-text/api')
 
 

@@ -17,9 +17,15 @@ SMS_MSG_TEXT="SMS Message Text"
 TEL="+14089668385"
 
 # Send the Send SMS method request to the API Gateway.
-curl "${FQDN}/sms/v3/messaging/outbox" \
-    --header "Content-Type: application/json" \
-    --header "Accept: application/json" \
-    --header "Authorization: Bearer ${OAUTH_ACCESS_TOKEN}" \
-    --data "{\"outboundSMSRequest\":{\"address\":\"${TEL}\",\"message\":\"${SMS_MSG_TEXT}\"}}" \
-    --request POST
+# curl "${FQDN}/sms/v3/messaging/outbox" \
+#     --header "Content-Type: application/json" \
+#     --header "Accept: application/json" \
+#     --header "Authorization: Bearer ${OAUTH_ACCESS_TOKEN}" \
+#     --data "{\"outboundSMSRequest\":{\"address\":\"${TEL}\",\"message\":\"${SMS_MSG_TEXT}\"}}" \
+#     --request POST
+
+curl -k  -H "Accept: application/json" \ 
+		 -H "Content-type: application/json" \
+		 -H "Authorization: Bearer ${OAUTH_ACCESS_TOKEN}" \
+		 -X POST ${FQDN}/sms/v3/messaging/outbox \
+		 -d {"outboundSMSRequest": {"address":"tel:${TEL}","message":"${SMS_MSG_TEXT}"}}

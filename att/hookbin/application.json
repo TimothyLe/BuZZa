@@ -1,0 +1,77 @@
+{
+    "deviceID": "SnapCop1",
+    "Protcol": "Police",
+    "Data": {
+        "timestamp": 1521923689555,
+        "Location-X": "-0.045",
+        "temp": "89.54",
+        "humidity": "3233",
+        "partitionKey": "kit01"
+    }
+}
+{
+    "deviceID": "SnapCop1",
+    "Protcol": "Police",
+    "Data": {
+        "timestamp": 1521923674555,
+        "Location-X": "-0.044",
+        "temp": "89.77",
+        "humidity": "3233",
+        "partitionKey": "kit01"
+    }
+}
+{
+    "deviceID": "SnapCop1",
+    "Protcol": "Police",
+    "Data": {
+        "timestamp": 1521923669556,
+        "Location-X": "-0.047",
+        "temp": "89.77",
+        "humidity": "3233",
+        "partitionKey": "kit01"
+    }
+}
+{
+    "deviceID": "SnapCop1",
+    "Protcol": "Police",
+    "Data": {
+        "timestamp": 1521923664555,
+        "Location-X": "-0.045",
+        "temp": "89.87",
+        "humidity": "3233",
+        "partitionKey": "kit01"
+    }
+}
+{
+    "deviceID": "SnapCop1",
+    "Protcol": "Police",
+    "Data": {
+        "timestamp": 1521923649534,
+        "Location-X": "-0.037",
+        "temp": "90.17",
+        "humidity": "3233",
+        "partitionKey": "kit01"
+    }
+}
+{
+    "deviceID": "SnapCop1",
+    "Protcol": "Police",
+    "Data": {
+        "timestamp": 1521923645656,
+        "Location-X": "-0.046",
+        "temp": "90.34",
+        "humidity": "3233",
+        "partitionKey": "kit01"
+    }
+}
+{
+    "deviceID": "SnapCop1",
+    "Protcol": "Police",
+    "Data": {
+        "timestamp": 1521923639555,
+        "Location-X": "-0.045",
+        "temp": "90.44",
+        "humidity": "3233",
+        "partitionKey": "kit01"
+    }
+}
