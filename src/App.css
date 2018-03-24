@@ -30,6 +30,10 @@
   background: red;
 }
 
+.jumbotron {
+  height: 300px;
+}
+
 #police {
   background-color: blue;
 }
