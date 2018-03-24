@@ -4,8 +4,7 @@ import '../App.css';
 class Squares extends Component {
   render() {
     return(
-    <div id="SquaresDisplay" className="container jumbotron">
-      <h1>Interface Display</h1>
+    <div id="SquaresDisplay" className="container-fluid">
       <div id="Victim" className="squares">
         <p>Victim</p>
       </div>

@@ -23,11 +23,11 @@
 }
 
 .squares{
-  width: 80px;
+  width: 100%;
+  font-size: 36px;
   color: white;
-  height: 50px;
+  height: 80px;
   background: red;
-  margin: 20px;
 }
 
 #police {
