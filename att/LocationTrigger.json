@@ -1,11 +1,10 @@
 {
-    "deviceID": "SnapCop1",
+    "deviceID": "123456789012300",
     "Protcol": "Police",
     "Data": {
-        "timestamp": 1521931289431,
+        "timestamp": 1521932334436,
         "ProfileId": "JohnSFPolice3233",
-        "Location-X": "-0.004",
-        "Location-Y": "0.023",
-        "temp": "88.72"
+        "latitude": "-0.003",
+        "longitude": "0.009"
     }
 }
