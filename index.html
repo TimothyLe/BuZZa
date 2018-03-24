@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="viewport" content="width=device-width, inital-scale=1.0">
+  <link rel="stylesheet" src="//normalize-css.googlecode.com/svn/trunk/normalize.css" />
+  <link rel="stylesheet" href="css/styles.css">
+  <title>incident Reviews</title>
+</head>
+
+<body>
+  <header>
+    <nav>
+      <h1><a href="/">San Francisco Incidents</a></h1>
+    </nav>
+  </header>
+
+  <main id="maincontent">
+    <section id="map-container">
+      <div id="map" role="application" aria-hidden="true"></div>
+    </section>
+    <section>
+      <div class="filter-options" aria-labelledby="filter-results">
+        <h2>Filter Results</h2>
+        <select id="neighborhoods-select" name="neighborhoods" aria-labelledby="select neighborhood" onchange="updateincidents()">
+          <option value="all">All Neighborhoods</option>
+        </select>
+        <select id="crimes-select" name="crimes" aria-labelledby="select cusisine" onchange="updateincidents()">
+          <option value="all">All Crimes</option>
+        </select>
+      </div>
+      <ul id="incidents-list"></ul>
+    </section>
+  </main>
+
+  <script type="application/javascript" charset="utf-8" src="js/dbhelper.js"></script>
+  <script type="application/javascript" charset="utf-8" src="js/main.js"></script>
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCKapNB4ZfXKVvfdGit20o_5eiYc-Zzd9o&libraries=places&callback=initMap"></script>
+
+
+  <footer id="footer">
+    Copyright (c) 2017 <a href="/"><strong>SnapCop</strong></a> All Rights Reserved.
+  </footer>
+
+</body>
+
+</html>
