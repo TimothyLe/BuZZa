@@ -1,77 +1,72 @@
 {
-    "deviceID": "SnapCop1",
+    "deviceID": "123456789012300",
     "Protcol": "Police",
     "Data": {
-        "timestamp": 1521923689555,
-        "Location-X": "-0.045",
-        "temp": "89.54",
-        "humidity": "3233",
-        "partitionKey": "kit01"
+        "timestamp": 1521934549517,
+        "ProfileId": "JohnSFPolice3233",
+        "latitude": "0.000",
+        "longitude": "0.037"
     }
 }
 {
-    "deviceID": "SnapCop1",
-    "Protcol": "Police",
+    "deviceID": "123456789012301",
+    "Protcol": "Fire",
     "Data": {
-        "timestamp": 1521923674555,
-        "Location-X": "-0.044",
-        "temp": "89.77",
-        "humidity": "3233",
-        "partitionKey": "kit01"
+        "timestamp": 1521934542517,
+        "ProfileId": "KamSFFire1234",
+        "latitude": "1.000",
+        "longitude": "0.137"
     }
 }
 {
-    "deviceID": "SnapCop1",
-    "Protcol": "Police",
+    "deviceID": "123456789012302",
+    "Protcol": "EMS",
     "Data": {
-        "timestamp": 1521923669556,
-        "Location-X": "-0.047",
-        "temp": "89.77",
-        "humidity": "3233",
-        "partitionKey": "kit01"
+        "timestamp": 1521934549527,
+        "ProfileId": "JaneSantaClaraEMS1234",
+        "latitude": "0.020",
+        "longitude": "0.137"
     }
 }
 {
-    "deviceID": "SnapCop1",
-    "Protcol": "Police",
+    "deviceID": "123456789012303",
+    "Protcol": "EMS",
     "Data": {
-        "timestamp": 1521923664555,
-        "Location-X": "-0.045",
-        "temp": "89.87",
-        "humidity": "3233",
-        "partitionKey": "kit01"
+        "timestamp": 1521934549217,
+        "ProfileId": "KarlaSantaClaraEMS1221",
+        "latitude": "0.230",
+        "longitude": "1.037"
     }
 }
 {
-    "deviceID": "SnapCop1",
+    "deviceID": "123456789012304",
     "Protcol": "Police",
     "Data": {
-        "timestamp": 1521923649534,
-        "Location-X": "-0.037",
-        "temp": "90.17",
-        "humidity": "3233",
-        "partitionKey": "kit01"
+        "timestamp": 1521934249517,
+        "ProfileId": "KenSFPolice5532",
+        "latitude": "0.020",
+        "longitude": "1.037"
     }
 }
 {
-    "deviceID": "SnapCop1",
-    "Protcol": "Police",
+    "deviceID": "123456789012305",
+    "Protcol": "Fire",
     "Data": {
-        "timestamp": 1521923645656,
-        "Location-X": "-0.046",
-        "temp": "90.34",
-        "humidity": "3233",
-        "partitionKey": "kit01"
+        "timestamp": 1521924549517,
+        "ProfileId": "MarteenSanJoseFire3243",
+        "latitude": "1.234",
+        "longitude": "2.037"
     }
 }
 {
-    "deviceID": "SnapCop1",
-    "Protcol": "Police",
+    "deviceID": "123456789012306",
+    "Protcol": "EMS",
     "Data": {
-        "timestamp": 1521923639555,
-        "Location-X": "-0.045",
-        "temp": "90.44",
-        "humidity": "3233",
-        "partitionKey": "kit01"
+        "timestamp": 1521932549517,
+        "ProfileId": "JulieSFEMS3243",
+        "latitude": "0.010",
+        "longitude": "0.017"
     }
 }
+
+

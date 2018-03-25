@@ -20,5 +20,5 @@
         }
     },
     "timeframe": 0,
-    "custom_data": "Hello ZiZ, you moved in direction A"
+    "custom_data": "FirstResponder moved last location by +X miles"
 }
