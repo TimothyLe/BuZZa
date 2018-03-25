@@ -12,11 +12,11 @@
 </Reference>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>oBsqzYwz80j4Zn5g8G+RvccVyn1tNro3cS13Rubq3Vk=</DigestValue>
+<DigestValue>HBMSmqNqLtqSYrIZcqZlmZhWHCKFhLhZBYf+uiyCJOc=</DigestValue>
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>bEzgrrIh6ZrM59LoLWCqE1D6WhOwEfvKjZ6kydz7j+M=</DigestValue>
+<DigestValue>WcTKGknOby3CDyvA214ZqbsGNJd5yhr4LbjZ0w1WFC0=</DigestValue>
 </Reference>
 <Reference URI="css%2Fstyle.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -1086,6 +1086,10 @@
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>lKF+F/+Vc6ADZxlKk2i8yAxDvC9JNUW2N7WwJv4LS5A=</DigestValue>
 </Reference>
+<Reference URI="omnirescuelogo-01.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>J+xxxlXa6gEqz67sxtRVBCSMITWTz6nFSvItneP+1o8=</DigestValue>
+</Reference>
 <Reference URI="version.txt">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>LfK9cBHoc1Hi4+KW3bfyUgJwp2Fg+VstZLM3FnKU8ow=</DigestValue>
@@ -1099,11 +1103,11 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-SauaYyN3yVAHvhenwXvIl8zWAHWwtzzi5LcXR0XZAsqvJcXn/e9Vqo+6X2zIW0BqAL1NymzWhKIW
-dmjCnSBvwqmbWkCwThvegT+XKxF3M48qIKw7BAiO3PaLNL94Uc1wn1nh35Sr006zqttFvbP/Av4D
-WTw1GDJOgKiGZp2FKG0gt4SNtLM/syh8Mu8nyrxQNoV6UJWs/Na6IMAkrtWWIrYVEJIE+cfyX2KD
-AHEOyam6cFbhU5KyySw6/dXRzaDsp9KlJuC/QgZvsgJ5GH+VYQYi3uAR4iM0wjr2gJ1E6AALgzEN
-QPeoRNxTwbgpPsgjNqmTfbYQihE2ukn+sdCARg==
+AnFnXsZIRWKXjKTIeJFZ93qzv7CuVushrzUNWcb2HiO5B4Co/0+eZ1fZlp5Kv4WGEUR7gGrIOsrT
+VJXwFW6rk5ldpp++UcEYnNH/vNRpiPEEXxcoqkKzaOI/c/op2rePwmEqtRGu39ekiahFVh/oqnxN
+10b889Wh58JDEhOgFjqtiExg/wbyLppJj1Jd1Cx0QZSgwkzzorzPk/9UL5AngygAaDrG1yqY+FFz
+QEQJdf6hVd/sHtNSfLXQ1w7/G3bIvAjsP4pFInfY89w5JQrkNaMg9aWjWgcFWC02483ADrcLxrBu
+D00izZxhFAl37qQX+wbdY6VBP1KpcLwmOifP/w==
 </SignatureValue>
 <KeyInfo>
 <X509Data>

@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://yourdomain/HeartRateMonitor" version="1.0.0" viewmodes="maximized">
     <tizen:application id="mlMGp0VUdu.HeartRateMonitor" package="mlMGp0VUdu" required_version="2.3.1"/>
+    <author href="http://timothyle.github.io" email="timothyle85@gmail.com">Timothy Le</author>
     <content src="index.html"/>
+    <description>Omni Rescue First Net Hackathon app</description>
     <feature name="http://tizen.org/feature/screen.size.all"/>
-    <icon src="icon.png"/>
+    <icon src="omnirescuelogo-01.png"/>
     <name>HeartRateMonitor</name>
     <tizen:privilege name="http://tizen.org/privilege/healthinfo"/>
     <tizen:profile name="wearable"/>

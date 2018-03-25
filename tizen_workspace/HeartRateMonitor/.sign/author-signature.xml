@@ -12,7 +12,7 @@
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>bEzgrrIh6ZrM59LoLWCqE1D6WhOwEfvKjZ6kydz7j+M=</DigestValue>
+<DigestValue>WcTKGknOby3CDyvA214ZqbsGNJd5yhr4LbjZ0w1WFC0=</DigestValue>
 </Reference>
 <Reference URI="css%2Fstyle.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -1082,6 +1082,10 @@
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>lKF+F/+Vc6ADZxlKk2i8yAxDvC9JNUW2N7WwJv4LS5A=</DigestValue>
 </Reference>
+<Reference URI="omnirescuelogo-01.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>J+xxxlXa6gEqz67sxtRVBCSMITWTz6nFSvItneP+1o8=</DigestValue>
+</Reference>
 <Reference URI="version.txt">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>LfK9cBHoc1Hi4+KW3bfyUgJwp2Fg+VstZLM3FnKU8ow=</DigestValue>
@@ -1095,11 +1099,11 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-FsvOr7mOSAcC/DPQz2FLn/mRig6FinQoQJq7upOVQJZYXH+wojCUYO0dHtfo22d8QJkBmYUPIYO1
-9/7KiMaeQ9LmiEQ5MWMwJZGBgoPLoTcmkQiY8+ztAwwRQd+Xt3IsEeyB20lcQ3Hyvuqvj5QxeCcR
-Xu4NI/wdBqTmzU2jxKOl2P0VEJbNSYqJkbJx4NAOiiMzJALs8fixx1WdYJlQ4s+yDRWV2dqd7QfV
-s+zVJBfzjmWCNsdoXlnZbf/JWumE4DLn985j1Gs6VurxLNxTpjGSnWv1bBznLmMN82gXr9iOZ83K
-ZGNcthWOQ+9nNSN6eCel3ius4Eg4nPFmH/zWgg==
+Dic3cqvHq33cv7Fk/OYErLPNPFGx1o5+W4nVy0YW+dg3Qy98KEgFGEXfMc0PZdZCTZQ3hz7j994O
+ZmAhCLjJ3hNQmXGhpzJwOKx3uvajlNtohMpWr4CJef3SAcFaHTEWPz4JoBKJ4MjA79SgL2gJz9u3
+2RzdArs+iHmc9m2nrZ6ZJ2UcyYhMAjGjhOQk4M/iCibg9qneCRxpzsp0vHxT9x4GHVuNrswai15p
+ZmOKs3Bgm44/h3HJOuVK+ndliyrG05HuVlGUWO3boMhOtRYx12ZLpYEozgw9LByG5K2309XMxAvg
+7FstFWDmBUkq1uoqSzWlAP1jChoZQUd7zWYL9A==
 </SignatureValue>
 <KeyInfo>
 <X509Data>
